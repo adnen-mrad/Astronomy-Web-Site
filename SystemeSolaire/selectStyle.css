@@ -1,0 +1,212 @@
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-direction: row;
+  }
+  .button_design {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left:15px;
+    margin-right:15px;
+    word-spacing: normal;
+    letter-spacing: 3px;
+    border: 1px solid white;
+    background: black;
+    cursor: pointer;
+    color:white ;
+  }
+  #some-element {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    color:white ;
+    width:200px;
+    position:absolute;
+    font-style:italic ;
+  }
+  
+  #some-div:hover #some-element {
+    display: block;
+  }
+  #some-element1 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    color:white ;
+    width:200px;
+    position:absolute;
+    text-transform: lowercase;
+    font-style:italic ;
+  }
+  
+  #some-div1:hover #some-element1 {
+    display: block;
+   
+  }
+  #some-element2 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div2:hover #some-element2 {
+    display: block;
+   
+  }
+  #some-element3 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 15px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div3:hover #some-element3 {
+    display: block;
+   
+  }
+  #some-element4 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div4:hover #some-element4 {
+    display: block;
+   
+  }
+  #some-element5 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div5:hover #some-element5 {
+    display: block;
+   
+  }
+  #some-element6 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div6:hover #some-element6 {
+    display: block;
+   
+  }
+  #some-element7 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div7:hover #some-element7 {
+    display: block;
+   
+  }
+  #some-element8 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div8:hover #some-element8 {
+    display: block;
+   
+  }
+  #some-element9 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div9:hover #some-element9 {
+    display: block;
+   
+  }
+  #some-element10 {
+    border: 1px solid #ccc;
+    display: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 5px;
+    text-transform: lowercase;
+    font-style:italic ;
+    color:white ;
+    width:200px;
+    position:absolute;
+  }
+  
+  #some-div10:hover #some-element10 {
+    display: block;
+   
+  }
+  #style  {
+	font-weight: bold;
+	text-transform: uppercase ;
+}
+  
